@@ -1,0 +1,12 @@
+data/
+vector_store/
+*.csv
+*.parquet
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+*.pkl
+*.faiss
+chroma_db/
